@@ -1,0 +1,2 @@
+Yosemite  
+A two-column, fixed-width design. Note that the header image is implemented as a css background image and hence cannot be easily changed via the CMS (you would have to replace the image file referred to by the CSS).

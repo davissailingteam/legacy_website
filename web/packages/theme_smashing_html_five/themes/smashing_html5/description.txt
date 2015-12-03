@@ -1,0 +1,2 @@
+Smashing Html5
+A theme designed by Enriquez Ramirez to illustrate the properties of html5 and css3. Modified for c5 by 12345j.
